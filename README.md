@@ -10,4 +10,7 @@ https://github.com/user-attachments/assets/7d0e7526-d4db-4176-a18c-d8051e971570
 
 https://github.com/user-attachments/assets/999fc02d-f4d5-4acc-a231-88f55f4274cd
 
-For this scene it took me 25 minute
+For this scene it took me 14 minute
+and each frame it took 4 second.
+my graphic card is 2050 rtx Nvidia so use 540pixel normal map to calculate .
+I thought this been useful for long run free plan.
